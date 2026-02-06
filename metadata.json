@@ -1,0 +1,7 @@
+{
+  "name": "Checkers Pro Multiplayer",
+  "description": "A high-performance, professional 8x8 checkers game with real-time multiplayer features, competitive ranking, and fluid animations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
